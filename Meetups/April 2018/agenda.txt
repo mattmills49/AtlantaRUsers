@@ -1,0 +1,16 @@
+Welcome to our first Monthly Recurring Meetup! Food and beverage will be served and the schedule is as follows:
+
+7:00 - 7:20: Pizza and Networking
+7:20 - 7:30: Welcome to the Atlanta R Users Group
+7:30 - 8:00: How to speed up and improve your model fitting with h2o.ai - Matt Mills
+8:00 - 8:30: Shiny: When, Why, and Example Apps - Andy Merlino
+
+Andy Merlino Bio: "I own an R and Shiny consulting company (Tychobra). We build cool stuff with R and Shiny. I caught the R bug in early 2012 and the Shiny bug shortly there after; I have been an extreme R­ enthusiast ever since. Before starting Tychobra, I worked as an actuarial analyst
+and R/Shiny developer at a large consulting firm. I led the firm’s initiative to increase internal R adoption and sell Shiny apps to clients.
+
+Besides data analytics and web development, I follow Elon
+Musk and his companies closely (some would say too
+closely), and I try to spend as much time as possible with
+friends and family. I became an uncle last week!"
+
+I hope you all are as excited to get this group back up and running as I am. Please share this meetup with any of your friends or colleagues who may be interested.
